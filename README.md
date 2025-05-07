@@ -4,3 +4,6 @@ pip install -e .
 Now you can run:
 chatcli start-server
 chatcli join
+
+For help:
+chatci --help
