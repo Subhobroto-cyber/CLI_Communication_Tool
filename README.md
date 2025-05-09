@@ -1,3 +1,5 @@
+You need a Python environment to operate this tool.
+
 one folder will be chatcli under which there will be:
 chatcli(the folder that contains __init__.py and cli.py) and setup.py
 
